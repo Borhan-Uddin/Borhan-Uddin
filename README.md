@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Borhan-Uddin
-- 👀 I’m interested in Machine learning and deep learning
-- 🌱 I’m currently studying in Erasmus Mundus Masters program in Computational color and Spectral Imaging (COSI) with fullfunding scholarship provided by the EU
+- 👀 I’m interested in Image processing and low level programming
+- 🌱 I’m currently working as a Software Engineer at Nokia Head Quarter in Finland
 - 📫 you can reach me at borhancse.cu@gmail.com 
 
 <!---
