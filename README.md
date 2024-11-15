@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Borhan-Uddin
 - 👀 I’m interested in Image processing and low level programming
-- 🌱 I’m currently working as a Software Engineer at Nokia HQ in Finland
+- 🌱 I’m currently working as a Software Engineer at Varian Medical Systems Finland
 - 📫 you can reach me at borhancse.cu@gmail.com 
 
 <!---
